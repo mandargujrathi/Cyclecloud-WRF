@@ -10,7 +10,7 @@ This deployment will feature the following: \
 
 (1) Azure Subscription \
 (2) Subscription whitelisted for Azure NetApp Files (ANF) \
-(3) Quota for HBv2 VM's in the Azure region of your choice \
+(3) Quota for HBv2 VM's in the Azure region of your choice 
 
 ### Services used
 (1) Azure Cycle Cloud \
@@ -47,7 +47,7 @@ The steps below outline the process to deploy a NFS4.1 volume using Azure NetApp
 (3) Change the directory to WRF/templates and upload the template to cyclecloud using \
   cyclecloud import_template -f wrf.txt \
 (4) The cluster for WRF will now appear in the CycleCloud portal as PBS-ANSYS. \
-  ![alt text](https://github.com/mandargujrathi/CycleCloud-Fluent-Win-Linux/blob/main/WRF-Cluster.PNG)
+  ![alt text](https://github.com/mandargujrathi/CycleCloud-Fluent-Win-Linux/blob/main/WRF_Cluster.PNG)
 (5) To start the cluster: 
   
 (a) Click on the WRF logo, enter a name for the cluster and click Next \
