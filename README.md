@@ -47,7 +47,7 @@ The steps below outline the process to deploy a NFS4.1 volume using Azure NetApp
 (3) Change the directory to WRF/templates and upload the template to cyclecloud using \
   cyclecloud import_template -f wrf.txt \
 (4) The cluster for WRF will now appear in the CycleCloud portal as PBS-ANSYS. \
-  ![alt text](https://github.com/mandargujrathi/CycleCloud-Fluent-Win-Linux/blob/main/WRF_Cluster.PNG)
+  ![alt text](https://github.com/mandargujrathi/Cyclecloud-WRF/blob/main/Images/WRF-Cluster.PNG)
 (5) To start the cluster: 
   
 (a) Click on the WRF logo, enter a name for the cluster and click Next \
