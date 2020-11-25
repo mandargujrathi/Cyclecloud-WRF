@@ -17,7 +17,7 @@ This deployment will feature the following: \
 (2) Azure NetApp Files (ANF) 
 
 ## Architecture
-Following is the architecture which was developed to deploy Fluent leveraging a Linux Cluster from Windows Front End. 
+Following is the architecture which was developed to deploy WRF on Azure. 
 
 ![alt text](https://github.com/mandargujrathi/Cyclecloud-WRF/blob/main/Images/WRF_1.PNG)
 
